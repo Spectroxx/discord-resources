@@ -1,0 +1,10 @@
+- type: embed
+  embeds:
+    - title: Spec's Lounge
+      url: https://discord.gg/yv9TZH7aTT
+      color: 0x8be9fd
+      description: I'm going to add something later
+      image:
+        url: https://cdn.discordapp.com/attachments/764200569807175691/1187856976399585321/banner.png
+        width: 1920
+        height: 720
