@@ -1,9 +1,9 @@
 - type: embed
   embeds:
-    - title: Spec's Lounge
+    - title: Welcome to Spec's Lounge!
       url: https://discord.gg/yv9TZH7aTT
-      color: 0x8be9fd
-      description: I'm going to add something later
+      color: 0xFF5555
+      description: This is <@542022495751110663>'s public Discord server to hang out and game.
       image:
         url: https://cdn.discordapp.com/attachments/764200569807175691/1187856976399585321/banner.png
         width: 1920

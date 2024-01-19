@@ -1,9 +1,5 @@
 - type: embed
   embeds:
-    - title: Welcome to Spec's Lounge!
-      color: 0xFF5555
-      description: This is <@542022495751110663>'s public Discord server to hang out and game.
-    
     - title: Discord Server Rules
       color: 0xFFFFFF
 
