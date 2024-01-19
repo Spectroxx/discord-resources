@@ -4,8 +4,13 @@
       color: 0xFF5555
       description: This is <@542022495751110663>'s public Discord server to hang out and game.
     
+<<<<<<< HEAD
     - title: Discord Server Rules
       color: 0xFFFFFF
+=======
+    - title: Server Rules
+      color: 0xBD93F9
+>>>>>>> aad49c38934791c3b19c5f67e2e6e7a1d41ac11f
 
 - type: rules
   rules:
@@ -18,7 +23,10 @@
 - type: embed
   embeds:
     - title: MC Server Rules
+<<<<<<< HEAD
       color: 0xFFFFFF
+=======
+>>>>>>> aad49c38934791c3b19c5f67e2e6e7a1d41ac11f
 
 - type: rules
   rules:
@@ -26,4 +34,8 @@
     No vandalism: Don't vandalize/break other peoples work. Stealing included.
     No spawn killingz: Pretty self-explanatory.
     Creepers: Fill in the creeper craters if you make a huge fucking gaping hole in the ground.
+<<<<<<< HEAD
     Modded Clients: Use one, I'll ban you.
+=======
+    Modded Clients: Use one, I'll ban you.
+>>>>>>> aad49c38934791c3b19c5f67e2e6e7a1d41ac11f
